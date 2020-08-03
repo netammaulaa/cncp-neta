@@ -1,0 +1,41 @@
+.body{
+    width: 150px;
+    height: 100px;
+    filter: drop-shadow(-4.33px 2.5px 6.5px rgba(0,0,0,0.27));
+    background-color: #ffffff;
+}
+
+.title{
+    font-size: 35px;
+    line-height: 33px;
+    color: #ed1b23;
+    font-family: "Trajan Pro";
+    text-align: center;
+
+}
+
+.subtitle{
+    font-size: 16px;
+    line-height: 28px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Trajan";
+    text-align: center;
+}
+
+.text{
+    font-size: 31px;
+    line-height: 45px;
+    color: #cb0008;
+    font-weight: 400;
+    font-family: "Amiri";
+    text-align: center;}
+
+.parag{
+    font-size: 17px;
+    line-height: 27px;
+    color: #595959;
+    font-weight: 400;
+    font-family: "Amiri";
+    text-align: center;
+}
